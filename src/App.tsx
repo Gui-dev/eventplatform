@@ -1,7 +1,6 @@
-import React, { useState } from 'react'
+import React from 'react'
 
-function App() {
-
+function App () {
   return (
     <h1>Hello World</h1>
   )
